@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/fescar-all.iml" filepath="$USER_HOME$/Documents/哥哥/activit-pro/fescar/fescar-all.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/common/fescar-common.iml" filepath="$USER_HOME$/Documents/哥哥/activit-pro/fescar/common/fescar-common.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/config/fescar-config.iml" filepath="$USER_HOME$/Documents/哥哥/activit-pro/fescar/config/fescar-config.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/core/fescar-core.iml" filepath="$USER_HOME$/Documents/哥哥/activit-pro/fescar/core/fescar-core.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/distribution/fescar-distribution.iml" filepath="$USER_HOME$/Documents/哥哥/activit-pro/fescar/distribution/fescar-distribution.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/dubbo/fescar-dubbo.iml" filepath="$USER_HOME$/Documents/哥哥/activit-pro/fescar/dubbo/fescar-dubbo.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/examples/fescar-examples.iml" filepath="$USER_HOME$/Documents/哥哥/activit-pro/fescar/examples/fescar-examples.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/rm-datasource/fescar-rm-datasource.iml" filepath="$USER_HOME$/Documents/哥哥/activit-pro/fescar/rm-datasource/fescar-rm-datasource.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/server/fescar-server.iml" filepath="$USER_HOME$/Documents/哥哥/activit-pro/fescar/server/fescar-server.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/spring/fescar-spring.iml" filepath="$USER_HOME$/Documents/哥哥/activit-pro/fescar/spring/fescar-spring.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/test/fescar-test.iml" filepath="$USER_HOME$/Documents/哥哥/activit-pro/fescar/test/fescar-test.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/tm/fescar-tm.iml" filepath="$USER_HOME$/Documents/哥哥/activit-pro/fescar/tm/fescar-tm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloudDemo.iml" filepath="$PROJECT_DIR$/.idea/springcloudDemo.iml" />
+    </modules>
+  </component>
+</project>

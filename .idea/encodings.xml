@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/common" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/config" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/core" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/distribution" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/dubbo" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/examples" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/rm-datasource" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/server" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/spring" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/test" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Documents/哥哥/activit-pro/fescar/tm" charset="UTF-8" />
+  </component>
+</project>
